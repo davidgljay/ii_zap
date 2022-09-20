@@ -4,5 +4,8 @@
   "description": "Zap connecting Lu.ma and Notion",
   "main": "index.js",
   "author": "David Jay",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "node index.js"
+  }
 }
