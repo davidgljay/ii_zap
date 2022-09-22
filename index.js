@@ -22,13 +22,13 @@ const registrationStatusField = ''
 
 // Gather inputData
 
-const inputData = {
-  name: 'David Jay',
-  email: 'davidgljay@gmail.com',
-  hasJoined: 'false',
-  lumaEventId: 'evt-PhSMp6DjpNLkEk1',
-  answers: 'Relationality Lab, Founder'
-}
+// const inputData = {
+//   name: 'David Jay',
+//   email: 'davidgljay@gmail.com',
+//   hasJoined: 'false',
+//   lumaEventId: 'evt-PhSMp6DjpNLkEk1',
+//   answers: 'Relationality Lab, Founder'
+// }
 
 
 const {name, lumaEventId, email, answers, hasJoined} = inputData
